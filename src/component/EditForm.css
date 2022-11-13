@@ -1,0 +1,24 @@
+.contact-style {
+  margin: 0px 0px 30px 500px;
+  border: 1px solid black;
+  width: 500px;
+  height: 150px;
+  display: flex;
+}
+
+.display-style {
+  width: 350px;
+}
+
+.edit-button-submit:hover {
+  background-color: greenyellow;
+}
+
+.edit-button-submit {
+  background-color: lightgreen;
+  height: 30px;
+  width: 70px;
+  font-size: 15px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
